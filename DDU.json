@@ -1,0 +1,50 @@
+[
+  {
+    "number": 0,
+    "route": "RB",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "NR45",
+    "destZ": "古梅閣",
+    "destY": "星城山莊",
+    "maxPZ": "1",
+    "priceZ1": "4.1",
+    "halfpriceZ1": "2.1",
+    "maxPY": "1",
+    "priceY1": "4.1",
+    "halfpriceY1": "2.1"
+  },
+  {
+    "number": 2,
+    "route": "455R",
+    "destZ": "星村許願樹",
+    "destY": "星城市中心",
+    "maxPZ": "1",
+    "priceZ1": "4.1",
+    "halfpriceZ1": "2.1",
+    "maxPY": "1",
+    "priceY1": "4.1",
+    "halfpriceY1": "2.1"
+  },
+  {
+    "number": 3,
+    "route": "NR46",
+    "destZ": "古梅山",
+    "destY": "星城山莊",
+    "maxPZ": "1",
+    "priceZ1": "4.1",
+    "halfpriceZ1": "2.1",
+    "maxPY": "1",
+    "priceY1": "4.1",
+    "halfpriceY1": "2.1"
+  }
+]
